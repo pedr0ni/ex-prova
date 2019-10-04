@@ -1,0 +1,18 @@
+.button-icon {
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+    transition: all .4s ease;
+}
+
+.form-holder {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin: 10px 0;
+}
+
+.form-holder input {
+    margin-right: 10px;
+    transition: all .4s ease;
+}
